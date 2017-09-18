@@ -1,0 +1,5 @@
+bazel-bin
+bazel-functional-programming-in-cplusplus
+bazel-genfiles
+bazel-out
+bazel-testlogs
