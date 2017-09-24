@@ -1,7 +1,11 @@
 cc_library(
     name = "main",
     srcs = [],
-    hdrs = ["average-score.h"],
+    hdrs = [
+        "average-score.h",
+        "count-lines.h",
+        "trim.h"
+    ],
 )
 
 cc_test(
